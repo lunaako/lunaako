@@ -8,9 +8,11 @@
 <img align="right" alt="coding image" width="400" src="https://media1.tenor.com/m/SWg8Pi3TLSkAAAAC/pixel-art-computer.gif">
 
 <h3>🔧 Technologies & Tools</h3>
-<img src="https://skillicons.dev/icons?i=aws,react,redux,css,docker,express,flask,gcp,html" />
-<img src="https://skillicons.dev/icons?i=java,js,linux,nextjs,nodejs,npm,postgres,postman,py" />
-<img src="https://skillicons.dev/icons?i=sqlite,sequelize,tailwind,vue" />
+<img src="https://skillicons.dev/icons?i=aws,react,redux,css,docker,express,flask" />
+<img src="https://skillicons.dev/icons?i=gcp,html,java,js,linux,nextjs,nodejs" />
+<img src="https://skillicons.dev/icons?i=sqlite,sequelize,tailwind,vue,npm,postgres,postman" />
+<img src="https://skillicons.dev/icons?i=py" />
+
 
 <h3>💻 Projects</h3> 
 
